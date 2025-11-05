@@ -4,7 +4,7 @@ This repository provides **R**, **Python**, and **MATLAB** implementations for f
 
 These estimators share several desirable properties: they are **distribution-free** (not requiring a normal distribution) and use simple shrinkage intensities. They are shown to be more accurate than benchmarks, especially for data with tail-asymmetries, making them highly effective for real-world financial data.
 
-These implementations are based on the research by **[Vali Asimit](https://sites.google.com/view/valiasimit), [Ziwei Chen](https://sites.google.com/d/1GrxlpQqRNZsuvYzvsDk6-g7Ccr-QM1DV/p/1GXX19lx9pfvPfak-dCLy3QlBr6s2DZNZ/edit), and [Nathan Lassance](https://sites.google.com/view/nathanlassance)**.. For full details on the methodology, please see the paper:
+These implementations are based on the research by **[Vali Asimit](https://sites.google.com/view/valiasimit), [Ziwei Chen](https://sites.google.com/view/ziwei-chen), and [Nathan Lassance](https://sites.google.com/view/nathanlassance)**.. For full details on the methodology, please see the paper:
 **[Distribution-free shrinkage of high-dimensional mean vector with an application to stock returns](https://www.researchgate.net/publication/391900068_Nonparametric_shrinkage_of_high-dimensional_mean_vector_for_return_prediction_and_portfolio_selection)**.
 
 ---
